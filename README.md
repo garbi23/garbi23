@@ -1,10 +1,10 @@
 ### 😄 어서오세요! Welcome to my Github 👋
 #### by TaeWoon Choi @garbi23
 
-__🌱전북대학교 소프트웨어 공학과 19학번을 재학중인 최태운 이라고 합니다.🌱 여러 외부 대회및 교내 대회를 통해 실력을 쌓아가고 있는 서비스 플랫폼 개발자 입니다.
+__🌱전북대학교 소프트웨어공학과를 재학중인 최태운 이라고 합니다.🌱 여러 외부 대회및 교내 대회를 통해 실력을 쌓아가고 있는 서비스 플랫폼 개발자 입니다.
 기존 일상생활에서의 불편함이나 문제점을 서비스 플랫폼을 통하여 혁신적으로 개선하고자하는 꿈이 있습니다.__
 
-My name is Taewoon Choi, and I am a 19th student at the Department of Software Engineering, Chonbuk National University. 
+My name is Taewoon Choi, and I am currently attending the Department of Software Engineering at Chonbuk National University. 
 He is a service platform developer who is building his skills through various outside competitions and campus competitions.
 There is a dream to innovatively improve the inconvenience or problems in the existing daily life through the service platform.
 
