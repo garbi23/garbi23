@@ -9,6 +9,16 @@ He is a service platform developer who is building his skills through various ou
 There is a dream to innovatively improve the inconvenience or problems in the existing daily life through the service platform.
 
 
+__📫 How to reach me :__
+
+Facebook : [facebook.com/taewwon233](https://www.facebook.com/taewwon233, "facebook link")   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/taewwon233)](https://www.facebook.com/taewwon233)
+
+Email (Gmail): garbi232@gmail.com  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garbi232@gmail.com)](mailto:garbi232@gmail.com)
+
+Email (Naver): garbi23@naver.com
+
+
+
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=garbi23)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
