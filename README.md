@@ -8,6 +8,9 @@ My name is Taewoon Choi, and I am currently attending the Department of Software
 He is a service platform developer who is building his skills through various outside competitions and campus competitions.
 There is a dream to innovatively improve the inconvenience or problems in the existing daily life through the service platform.
 
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=garbi23)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **garbi23/garbi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
