@@ -1,4 +1,4 @@
-### 😄 어서오세요! Welcome to my Github 👋
+### 😄 Welcome to my Github 👋
 #### by TaeWoon Choi @garbi23
 
 __🌱전북대학교 소프트웨어공학과를 재학중인 최태운 이라고 합니다.🌱 여러 외부 대회및 교내 대회를 통해 실력을 쌓아가고 있는 서비스 플랫폼 개발자 입니다.
